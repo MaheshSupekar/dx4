@@ -1,9 +1,16 @@
 {
-  "packageDirectories": [
-    {
-      "path": "force-app"
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "package": "mahesh-6jan",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": true
+        }
+    ],
+    "namespace": "",
+    "sourceApiVersion": "39.0",
+    "packageAliases": {
+        "mahesh-6jan": "0Ho5g000000Caw1CAC"
     }
-  ],
-  "namespace": "",
-  "sourceApiVersion": "39.0"
 }
