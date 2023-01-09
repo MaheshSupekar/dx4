@@ -6,11 +6,19 @@
             "versionName": "ver 0.1",
             "versionNumber": "0.1.0.NEXT",
             "default": true
+        },
+        {
+            "path": "/force-app",
+            "package": "Package9Jan2023",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
     "sourceApiVersion": "39.0",
     "packageAliases": {
-        "mahesh-6jan": "0Ho5g000000Caw1CAC"
+        "mahesh-6jan": "0Ho5g000000Caw1CAC",
+        "Package9Jan2023": "0Ho5g000000Caw6CAC"
     }
 }
