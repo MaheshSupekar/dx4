@@ -1,12 +1,6 @@
 {
     "packageDirectories": [
-        {
-            "path": "force-app",
-            "package": "mahesh-6jan",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT",
-            "default": true
-        },
+        
         {
             "path": "/force-app",
             "package": "Package9Jan2023",
@@ -18,7 +12,6 @@
     "namespace": "",
     "sourceApiVersion": "39.0",
     "packageAliases": {
-        "mahesh-6jan": "0Ho5g000000Caw1CAC",
         "Package9Jan2023": "0Ho5g000000Caw6CAC"
     }
 }
